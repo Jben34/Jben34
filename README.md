@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jben34
+# Hi there 👋, I'm Jad
 
 I'm a robotics engineer with a strong interest in control systems, reinforcement learning, and real-world autonomous systems. 
 
